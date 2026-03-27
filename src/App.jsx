@@ -130,12 +130,11 @@ export default function App() {
             <div className="photo-card">
               <div className="photo-frame">
                 <img
-                  src="/profile.webp"
+                  src="/profile-car.jpeg"
                   alt="Portrait of Fayiz Muhammed"
                   className="profile-image"
                 />
               </div>
-              <div className="photo-note">MERN developer focused on thoughtful, modern product building.</div>
             </div>
           </div>
         </section>
@@ -268,12 +267,6 @@ export default function App() {
               <p className="section-tag">Contact</p>
               <a href="mailto:muhammedfayiz59@gmail.com">muhammedfayiz59@gmail.com</a>
               <a href="tel:+918593091453">+91 8593091453</a>
-              <a href="https://www.linkedin.com/in/fayiz-muhammed-64a1a4292/" target="_blank" rel="noreferrer">
-                linkedin.com/in/fayiz-muhammed-64a1a4292
-              </a>
-              <a href="https://github.com/fayiz-123" target="_blank" rel="noreferrer">
-                github.com/fayiz-123
-              </a>
             </div>
           </article>
         </section>
