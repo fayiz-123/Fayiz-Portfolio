@@ -265,7 +265,7 @@ export default function App() {
 
             <div className="contact-panel">
               <p className="section-tag">Contact</p>
-              <a href="fayizmuhammedpr@gmail.com">fayizmuhammedpr@gmail.com</a>
+              <a href="mailto:fayizmuhammedpr@gmail.com">fayizmuhammedpr@gmail.com</a>
               <a href="tel:+918593091453">+91 8593091453</a>
             </div>
           </article>
