@@ -92,7 +92,7 @@ export default function App() {
             </p>
 
             <div className="hero-actions">
-              <a href="mailto:muhammedfayiz59@gmail.com" className="button primary">
+              <a href="mailto:fayizmuhammedpr@gmail.com" className="button primary">
                 Email Me
               </a>
               <a href="#projects" className="button secondary">
@@ -265,7 +265,7 @@ export default function App() {
 
             <div className="contact-panel">
               <p className="section-tag">Contact</p>
-              <a href="mailto:muhammedfayiz59@gmail.com">muhammedfayiz59@gmail.com</a>
+              <a href="fayizmuhammedpr@gmail.com">fayizmuhammedpr@gmail.com</a>
               <a href="tel:+918593091453">+91 8593091453</a>
             </div>
           </article>
